@@ -7,10 +7,11 @@
     background-color:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75));
     margin-top: 10px;
     
+    
 }
 .heading h1{
     font-size: 50px;
-    color:white;
+    color:black;
     margin-bottom: 25px;
     position: relative;
     margin: 20px auto;
@@ -102,12 +103,13 @@
   }
   
   .heading {
-    background-image: url("../Images/about1.jpg");
+    background-image: url("../Images/about.jpg");
     background-color: rgba(0, 0, 0, 0.3);
     height: 150px; /* Adjust height as needed */
     display: flex;
     justify-content: center;
     align-items: center;
+    text-emphasis-color: black;
   }
   
   .para {

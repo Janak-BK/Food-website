@@ -1,8 +1,8 @@
 import React from "react";
 import Layout from "../Components/Layout/Layout";
-import Subin from "../Images/home.jpg";
+import Subin from "../Images/masala.jpg";
 import "../Styles/AboutStyle.css";
-import Janak from "../Images/about1.jpg";
+import Janak from "../Images/about.jpg";
 
 const AboutUs = () => {
   return (
